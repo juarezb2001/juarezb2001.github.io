@@ -1,0 +1,29 @@
+.header{
+    text-align: center;
+}
+
+.mainTextbox{
+    margin: auto;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    white-space: pre-line;
+}
+
+@media only screen and (max-width: 450px){
+    .mainTextbox{
+        margin: auto;
+        width: 85vw;
+        display: flex;
+        flex-direction: column;
+        white-space: pre-line;
+    }
+}
+
+a{
+    color: #88c0d0
+}
+
+a:hover{
+    color: #242487;
+}
