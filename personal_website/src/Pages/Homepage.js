@@ -1,5 +1,5 @@
 import './Homepage.css';
-import profileImg from '../Assets/LinkedInProfilePic.jpg';
+import profileImg from '../Assets/Juarez_Benito.jpg';
 const Homepage = () =>{
     return(
         <>
