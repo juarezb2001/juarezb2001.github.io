@@ -11,39 +11,38 @@ const Resume = () => {
                     Graduated May 2023</p>
             </div>
             <div className={"mainTextbox"}>
-                <h3>Experience:</h3>
+                <h3>Work Experience:</h3>
 
-                <b>Software Developer @ <a href={"https://www.paycom.com/"}>Paycom Software Inc.</a></b>
+                <b>Software Developer IV @ <a href={"https://www.paycom.com/"}>Paycom Software, Inc.</a></b>
                 <b>June 2023 - Present</b>
                 <ul>
-                    <li>Architected and developed a new process to validate payrolls with international government agencies.</li>
-                    <li>Worked with Product Managers to create specs to provide new functionality to meet the growing demands of clients.</li>
-                    <li>Rewrote SPA pages to remove deprecated components and to provide a better experience to users.</li>
-                    <li>Created APIs to facilitate fetching and updating data in our system to better automate for our clients.</li>
-                    <li>Created MySQL tables to store data to be used by multiple teams in an efficient load sensitive manner.</li>
-                    <li>Researched client impacting issues and created fixes in a timely manner.</li>
+                    <li>Architected and developed a payroll validation process for international government agencies, enhancing data integrity and compliance.</li>
+                    <li>Collaborated with Product Managers to define functional specifications that meet the evolving needs of clients.</li>
+                    <li>Refactored SPA pages by removing deprecated components, improving user experience, and streamlining performance.</li>
+                    <li>Designed and implemented RESTful APIs to automate data retrieval and updates, significantly improving client workflows.</li>
+                    <li>Created MySQL database tables to ensure efficient, load-sensitive data storage accessible by multiple teams.</li>
+                    <li>Diagnosed and resolved client-facing issues, ensuring timely, high-quality fixes.</li>
                 </ul>
 
                 <b>Front-End Web Developer @ <a href={"https://spexodisks.com/"}>SpexoDisks</a></b>
                 <b>January 2023 - June 2023</b>
                 <ul>
-                    <li>Design pages to modernize the website UI and make pages feel more homogenous.</li>
-                    <li>Create reusable components that can serve a variety of purposes on the website.</li>
-                    <li>Reformat frontend to make the pages responsive to a variety of different screen sizes.</li>
-                    <li>Communicate our project lead to convert their ideas into real components on the website.</li>
-                    <li>Collaborate with a small team to create a better overall website for our users.</li>
+                    <li>Redesigned the UI of the website to create a modern, cohesive user experience.</li>
+                    <li>Developed reusable, modular components to improve code maintainability and UI consistency.</li>
+                    <li>Overhauled the front-end codebase for responsiveness across various screen sizes, ensuring optimal display on all devices.</li>
+                    <li>Collaborated closely with project leads to convert design concepts into production-ready web components.</li>
                 </ul>
 
-                <b>Software Development Intern at Paycom Software Inc.</b>
+                <b>Software Development Intern @ Paycom Software, Inc.</b>
                 <b>May 2022 - August 2022</b>
                 <ul>
-                    <li>Created a responsive Single Page Application (SPA) using the React framework.</li>
-                    <li>Created MySQL tables that were used to provide dynamic information to the React SPA.</li>
-                    <li>Expanded upon existing legacy code and sent user changes into a MySQL table using PHP.</li>
-                    <li>Managed project progress and collaborated with coworkers using GitLab.</li>
-                    <li>Created project plans and UI designs with coworkers using confluence.</li>
+                    <li>Created a responsive single page application using the React framework.</li>
+                    <li>Designed MySQL database tables to dynamically support SPA features and content.</li>
+                    <li>Enhanced legacy PHP code to handle dynamic data updates via MySQL.</li>
+                    <li>Worked within an Agile environment using GitLab for version control and project management.</li>
+                    <li>Coordinated with team members to create UI mockups and project plans on Confluence.</li>
                 </ul>
-                <b>Student Worker at The Department of Marketing at Texas State University</b>
+                <b>Student Worker @ The Department of Marketing at Texas State University</b>
                 <b>August 2019 - December 2022</b>
                 <ul>
                     <li>Over 3 years of work experience in a professional office setting.</li>
