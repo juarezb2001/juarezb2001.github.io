@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb0f3e44.css",
-    "main.js": "/static/js/main.0a552cc5.js",
+    "main.css": "/static/css/main.8e6b8e0c.css",
+    "main.js": "/static/js/main.1602b15c.js",
     "static/js/453.0437a03d.chunk.js": "/static/js/453.0437a03d.chunk.js",
     "static/media/Juarez_Benito.jpg": "/static/media/Juarez_Benito.6d4394ec33e8c53f736e.jpg",
     "index.html": "/index.html",
-    "main.eb0f3e44.css.map": "/static/css/main.eb0f3e44.css.map",
-    "main.0a552cc5.js.map": "/static/js/main.0a552cc5.js.map",
+    "main.8e6b8e0c.css.map": "/static/css/main.8e6b8e0c.css.map",
+    "main.1602b15c.js.map": "/static/js/main.1602b15c.js.map",
     "453.0437a03d.chunk.js.map": "/static/js/453.0437a03d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb0f3e44.css",
-    "static/js/main.0a552cc5.js"
+    "static/css/main.8e6b8e0c.css",
+    "static/js/main.1602b15c.js"
   ]
 }
